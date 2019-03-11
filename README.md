@@ -1,14 +1,6 @@
 # oce
 
-Slides and example code on the course Angular, Océ - spring 2019
-
-## (2) Advanced - Links
-- Repository with example code : https://github.com/PeterKassenaar/AngularAdvanced
-- Testing Repository : https://github.com/PeterKassenaar/ng-testing
-
-## (2) Advanced - Added during the training
-- ...
-
+Slides and example code on the course Angular, Océ - spring 2019.
 
 ## (1) Fundamentals - Links
 
@@ -25,3 +17,12 @@ Slides and example code on the course Angular, Océ - spring 2019
 -   Augury - tool to analyze and debug Angular-applications: https://augury.rangle.io/
 -   More information on SASS, the CSS pre-processing language (a bit like TypeScript, but for CSS) - https://sass-lang.com/
 -   info on the `share()` operator in RxJS to share observable results among multiple subscribers: https://stackoverflow.com/questions/50885262/replacing-the-share-function-for-in-rxjs6
+
+## (2) Advanced - Links
+
+-   Repository with example code : https://github.com/PeterKassenaar/AngularAdvanced
+-   Testing Repository : https://github.com/PeterKassenaar/ng-testing
+
+## (2) Advanced - Added during the training
+
+-   ...
