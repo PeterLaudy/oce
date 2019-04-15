@@ -25,4 +25,4 @@ Slides and example code on the course Angular, Océ - spring 2019.
 
 ## (2) Advanced - Added during the training
 
--   ...
+-   Guide on Versioning and Updating Angular and release cycles: https://angular.io/guide/releases
